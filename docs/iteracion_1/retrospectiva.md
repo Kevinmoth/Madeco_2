@@ -1,9 +1,4 @@
 
-- Product Owner: [Andrea Natalia Cabra]
-- Scrum Master: [Daniel Skromeda]
-- Desarrolladores: [Kevin Kronbauer], [Ayelen Carla De León]
-
-
 # Retrospectiva - Iteración 1
 ## Sistema de Gestión para Nutricionistas
 
