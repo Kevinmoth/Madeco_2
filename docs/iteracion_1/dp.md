@@ -35,7 +35,7 @@
 - Instalar Git y configurar usuarios
 
 ### 2. Crear Repositorio GitHub (Pareja A - 1 hora) 
-- Crear repo: `sistema-gestion-nutricionista` [LINK][https://github.com/Kevinmoth/sistema-gestion-nutricionista]
+- Crear repo: `sistema-gestion-nutricionista` [LINK](https://github.com/Kevinmoth/sistema-gestion-nutricionista)
 - Invitar colaboradores
 - Crear estructura de carpetas: `docs/iteracion_X/`
 - Subir archivo `erp.md`
