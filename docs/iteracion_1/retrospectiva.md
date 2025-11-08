@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Cumplimiento de Objetivos
+##  Cumplimiento de Objetivos
 
 | Tarea | Estado | Observaciones |
 |-------|--------|---------------|
@@ -58,7 +58,7 @@
 
 | Problema Identificado | Solución Propuesta | Responsable | Plazo |
 |----------------------|-------------------|-------------|--------|
-| Instalación de MySQL tomó 3 horas más de lo estimado | Kevin | 20/11/2025 |
+| Instalación de MySQL tomó 3 horas más de lo estimado || Kevin | 20/11/2025 |
 | No todos conocen Spring Boot | Sesión de capacitación de 30 min antes del próximo sprint | Andrea | 22/11/2025 |
 | Pocos commits durante la iteración (solo 12) | Comprometernos a hacer commits cada vez que completemos una subtarea | Todos | Desde hoy |
 | Código con diferentes estilos de indentación | Configurar el IDE con el mismo formateador de código | Ayelen | 20/11/2025 |
