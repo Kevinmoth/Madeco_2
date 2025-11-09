@@ -8,7 +8,7 @@
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Iteración** | 0 (Setup) |
+| **Iteración** | 1 (Setup) |
 | **Fecha** | 15/11/2025 |
 | **Participantes** | Todo el equipo (4 personas) |
 | **Duración reunión** | 1 hora |
