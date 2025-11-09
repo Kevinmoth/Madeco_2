@@ -1,10 +1,3 @@
-# Especificación de requisitos de software
-
-## Enunciado del problema
-# Especificación de Requisitos de Software
-## Sistema de Gestión para Nutricionista
-
----
 
 ## Enunciado del problema
 
@@ -341,3 +334,4 @@ sistema-gestion-nutricionista/
 - **Arquitectura MVC**: Separa responsabilidades claramente, facilitando el mantenimiento, testing y escalabilidad futura del sistema.
 
 ---
+
