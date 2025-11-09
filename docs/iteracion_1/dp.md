@@ -8,7 +8,7 @@
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Iteración** | 0 (Setup) |
+| **Iteración** | 1 (Setup) |
 | **Duración** | 1 semana |
 | **Objetivo** | Configurar entorno de desarrollo y estructura base del proyecto |
 
