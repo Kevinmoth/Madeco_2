@@ -1,10 +1,10 @@
-# Integrantes del equipo:
+### Integrantes del equipo:
 
-## **Product Owner**: [*Andrea Natalia Cabra*]
+ **Product Owner**: [*Andrea Natalia Cabra*]
 
-## **Scrum Master**: [*Daniel Skromeda*]
+ **Scrum Master**: [*Daniel Skromeda*]
 
-## **Desarrolladores**: [*Kevin Kronbauer*], [*Ayelen Carla De León*].
+ **Desarrolladores**: [*Kevin Kronbauer*], [*Ayelen Carla De León*].
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6df78a77-cbf1-4824-b350-55eca75bedfc" />
