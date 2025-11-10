@@ -1,7 +1,9 @@
 # Integrantes del equipo:
 
-Product Owner: [Andrea Natalia Cabra].
-Scrum Master: [Daniel Skromeda].
+Product Owner: [Andrea Natalia Cabra]
+
+Scrum Master: [Daniel Skromeda]
+
 Desarrolladores: [Kevin Kronbauer], [Ayelen Carla De León].
 
 
