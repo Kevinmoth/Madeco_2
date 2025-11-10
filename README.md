@@ -55,9 +55,7 @@ Se va a desarrollar un **Sistema Web de Gestión para Nutricionistas** que centr
 **Backend:**
 - Java 11 (OpenJDK)
 - Spring Boot 2.7.x
-  - Spring MVC (controladores web)
-  - Spring Data JPA (acceso a datos)
-  - Hibernate (ORM)
+  - MVC (controladores web)
 - Maven (gestión de dependencias)
 
 **Base de Datos:**
@@ -70,29 +68,11 @@ Se va a desarrollar un **Sistema Web de Gestión para Nutricionistas** que centr
 - Testing: JUnit 5, Mockito
 - Servidor embebido: Tomcat (puerto 8080)
 
-### Estructura del Proyecto
-```
-sistema-gestion-nutricionista/
-├── src/main/java/com/nutricion/sistema/
-│   ├── controllers/    # Controladores del MVC
-│   ├── models/         # Entidades JPA
-│   ├── repositories/   # Repositorios de la Spring Data
-│   └── services/       # Aca se agrega la lógica de negocio
-├── src/main/resources/
-│   ├── static/         # CSS, JS y imágenes
-│   ├── templates/      # Vistas del Thymeleaf (Motor de plantillas que elegimos)
-│   └── application.properties
-├── src/test/java/      # Para los tests unitarios
-└── pom.xml             # Configuración del Maven de java
-```
-
 ### Justificación de Tecnologías
 
 - **Spring Boot**: Framework Java perfecto apra el proyecto, muy usado en la industria, con excelente documentación y comunidad
 - **MySQL**: Base de datos relacional gratuita, robusta y ideal para el modelo de datos estructurado
-- **Thymeleaf**: Motor de plantillas bien integrado con Spring, fácil de aprender
 - **Bootstrap**: Framework CSS que nos va a agilizar el desarrollo de interfaces responsive
-- **Chart.js**: Librería JavaScript simple para crear gráficos interactivos
 - **Arquitectura MVC**: Separa responsabilidades, facilita mantenimiento y testing
 
 ---
